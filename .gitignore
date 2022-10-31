@@ -1,0 +1,5 @@
+*.log
+/F/
+Static/F
+ds.accdb
+myxl.xlsx
